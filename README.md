@@ -7,7 +7,7 @@
                             /_/    /_/                                                                   
 </pre>
 # Sapper Console
-## What is it?
+## What is it game about?
 Minesweeper has very simple rules. The playing field is divided into cells, some of which are mined. To win, you need to open all the cells without hitting the mines. Numbers are displayed in open cells, each digit is the number of mines in the number of cells. Using this information, you can determine in which cells mines are found. Potential mines can be flagged.
 ## Keyboard layout
 W,A,S,D         - Movement </br>
@@ -15,7 +15,7 @@ Space, Enter    - Choose option </br>
 F               - Set flag  </br>
 ESC             - Leave programm  </br>
 
-## How to play?
+## How to start?
 ### Windows
 Run <strong>sapper_win.exe</strong>
 ### Linux
